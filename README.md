@@ -9,6 +9,6 @@ This repository is about Covid-19 Dashboard built using Tableau a Data Analysis 
 - The Image of the Dashboard can be seen <a href = "https://raw.githubusercontent.com/SoleCodr/Covid-19-Dashboard/master/Covid-19%20Dashboard.png"> here </a> or from repository filed named "Covid-19 Dashboard.png". 
 <hr>
 
-
+---
 - Need to refresh the Data
 <hr>
