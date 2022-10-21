@@ -10,5 +10,5 @@ This repository is about Covid-19 Dashboard built using Tableau a Data Analysis 
 <hr>
 
 ---
-- Need to refresh the Data
+- Dataset has been stopped fromgetting updates.
 <hr>
